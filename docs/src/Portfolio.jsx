@@ -6,9 +6,9 @@ const PHOTO = "/me.jpg";
 
 // Edit this list: one entry per project tile.
 const projects = [
-  { title: "Project One", tag: "Weather app for hikers", color: "#3552E8",
+  { title: "RTX Air Quality Index Predictor", tag: "Next day air quality index prediction using machine learning", color: "#3552E8",
     body: "Describe the problem, what you built, and what you learned.",
-    tech: ["React", "Node.js", "REST API"], points: ["What it does", "Your role", "The result"], link: "#" },
+    tech: ["Javascript", "Python", "ML"], points: ["What it does", "Your role", "The result"], link: "#" },
   { title: "Project Two", tag: "Budget tracker", color: "#1F7A6B",
     body: "Replace this with the story of the project.",
     tech: ["Python", "SQLite"], points: ["Feature one", "Feature two"], link: "#" },
